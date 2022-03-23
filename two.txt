@@ -1,1 +1,2 @@
 added second.txt for diff-tree demo
+git 3 way merge commit-2
